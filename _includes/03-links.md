@@ -1,1 +1,5 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://github.com/darshanchaithram)
+
+[Instagram](https://instagram.com/_darshan__suresh_)
+
+[LinkedIn](https://linkedin.com/darshan-chaithram)
